@@ -1,0 +1,32 @@
+BEYOND THE CRASH - CREDITS
+=========================
+
+Game by Adnan.
+
+Game engine
+-----------
+Godot Engine (https://godotengine.org)
+Copyright (c) 2014-present Godot Engine contributors.
+Copyright (c) 2007-present Juan Linietsky, Ariel Manzur.
+Licensed under the MIT License (https://godotengine.org/license).
+
+Character model
+---------------
+"Valery tpose blender rigged woman" by xander.dice
+https://sketchfab.com/3d-models/valery-tpose-blender-rigged-woman-1cce3c0410634a9497fec3afc1fb8eda
+License: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+
+Animations
+----------
+Standard Run, Jump, Dying: Mixamo (https://www.mixamo.com), Adobe Systems Incorporated.
+
+SMG model: "Halo 2 Anniversary - SMG" (Sketchfab, halo_2_anniversary_-_smg.glb), shrunk for the game.
+Rifle walk animation: Mixamo (Walk_With_Rifle.fbx).
+
+Ghost model: cloth_ghost.glb (supplied by the project owner), optimised for the game (tools/optimize_ghost.py).
+Bench model: old_bench_3d_scan_free.glb (supplied by the project owner), optimised for the game (tools/optimize_bench.py).
+
+Cow model
+---------
+"Farm Cow Animated Dairy cattle" by Rukh3D (https://sketchfab.com/3d-models/farm-cow-animated-dairy-cattle-0e780cb5ab6d457198ded7d4e191a03e)
+License: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
